@@ -1,9 +1,7 @@
 {
     "python.pythonPath": "D:\\Program Files\\Python 3\\python.exe",
     "python.unitTest.pyTestEnabled": true,
-    "python.unitTest.pyTestArgs": [
-        "tests"
-    ],
+    "python.unitTest.pyTestArgs": [],
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "python.unitTest.unittestEnabled": false,
     "python.unitTest.nosetestsEnabled": false,
@@ -11,5 +9,6 @@
     "python.unitTest.autoTestDiscoverOnSaveEnabled": true,
     "editor.codeLens": true,
     "python.linting.pep8Enabled": true,
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true
 }

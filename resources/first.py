@@ -1,4 +1,6 @@
-#! python3.6
-
 def helloWorld():
-    return "Hello World"
+    return "Hello World!"
+
+
+def goodMorning():
+    return ""
